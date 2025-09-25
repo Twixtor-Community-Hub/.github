@@ -21,3 +21,10 @@
 ## 🔑 Keywords
 
 twixtor plugin optimization, twixtor tools, twixtor community, twixtor enhancements, twixtor stability
+
+## 📞 Contact
+
+Have questions? Reach out to us!  
+- **Twitter**: [@TwixtorOpti](https://twitter.com/TwixtorOpti)  
+- **Support**: [support@twixtor-opti.com](mailto:support@twixtor-opti.com)  
+- **Telegram**: [@TwixtorOptiSupport](https://t.me/TwixtorOptiSupport)  
